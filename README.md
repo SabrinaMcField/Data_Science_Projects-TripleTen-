@@ -42,7 +42,7 @@ Estimated customer age from facial images to support automated age verification 
 ## 🛠 Tools & Technologies
 - **Languages**: Python, SQL  
 - **Libraries**: pandas, NumPy, scikit-learn, statsmodels, TensorFlow/Keras, matplotlib, seaborn  
-- **Skills**: Predictive modeling, EDA, time series, classification, NLP, deep learningn
+- **Skills**: Predictive modeling, EDA, time series, classification, NLP, deep learning
 
 ---
 
