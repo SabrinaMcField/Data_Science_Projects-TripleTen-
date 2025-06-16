@@ -15,9 +15,8 @@ Build a model capable of accurately estimating age from facial images to support
 
 ## 🧰 Tools & Libraries
 
-- Python, OpenCV, Matplotlib
-- TensorFlow / Keras
-- NumPy, Seaborn
+- Python, TensorFlow / Keras
+- NumPy, Matplotlib, Seaborn
 - Jupyter Notebook (GPU environment)
 
 ## ✅ Outcome
