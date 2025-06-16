@@ -6,28 +6,28 @@ Welcome to my data science project portfolio! This repository showcases three en
 
 ## 📁 Projects Overview
 
-### 1. [Time Series Forecasting – Taxi Demand] 
+### 1. [Time Series Forecasting – Taxi Demand](./project1_time_series) 
 Forecasted hourly taxi order volume using SARIMA modeling to optimize fleet availability and reduce customer wait times.  
 **Key Techniques**: Time series decomposition, ACF/PACF analysis, RMSE evaluation  
 🔗 https://github.com/SabrinaMcField/Data_Science_Projects-TripleTen-/tree/main/project1_time_series
 
 ---
 
-### 2. [Customer Churn Prediction] 
+### 2. [Customer Churn Prediction](./project2_churn_prediction) 
 Developed classification models to predict telecom customer churn and identify key behavioral drivers.  
 **Key Techniques**: Feature engineering, class balancing, Logistic Regression, Random Forest  
 🔗 https://github.com/SabrinaMcField/Data_Science_Projects-TripleTen-/tree/main/project2_churn_prediction
 
 ---
 
-### 3. [Marketing Attribution & Game Sales Analysis] 
+### 3. [Marketing Attribution & Game Sales Analysis](./project3_marketing_analysis) 
 Analyzed game sales data to uncover platform and genre performance, regional preferences, and review impacts on profitability.  
 **Key Techniques**: Exploratory Data Analysis (EDA), correlation analysis, platform lifecycle modeling  
 🔗 https://github.com/SabrinaMcField/Data_Science_Projects-TripleTen-/tree/main/project3_marketing_analysis
 
 ---
 
-### 4. [🗣 NLP – Movie Review Sentiment Classification]
+### 4. [🗣 NLP – Movie Review Sentiment Classification](./project4_nlp)
 Classified IMDb reviews as positive or negative using TF-IDF and logistic regression.  
 **Techniques**: Text preprocessing, lemmatization, TF-IDF, model evaluation using F1-score  
 🔗 https://github.com/SabrinaMcField/Data_Science_Projects-TripleTen-/tree/main/project4_nlp
