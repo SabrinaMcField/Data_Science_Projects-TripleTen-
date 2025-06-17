@@ -44,7 +44,9 @@ Sweet Lift experiences fluctuations in customer demand throughout the day. By fo
   <img src="images/sarima_forecast.png" width="600" alt="SARIMA Forecast Plot"/>
 </p>
 
-> *SARIMA model forecast showing hourly taxi demand prediction with confidence intervals.*
+> **Figure: Final SARIMA Forecast vs. Actual Taxi Orders**
+> 
+> This line plot compares actual hourly taxi order volumes (blue) with the SARIMA model's predicted values (orange) over the test period. The forecast closely tracks demand trends, capturing overall seasonality and fluctuations while maintaining an RMSE of 38.91—well below the project's threshold of 48. This visualization demonstrates the model's effectiveness in anticipating short-term demand patterns critical for driver scheduling and operational planning.
 
 ---
 
