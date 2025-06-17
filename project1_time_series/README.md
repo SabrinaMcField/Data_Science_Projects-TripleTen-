@@ -73,9 +73,13 @@ The SARIMA model successfully met the target benchmark (RMSE < 48), demonstratin
 ## 📁 Repository Structure
 
 ├── images/   # Folder for forecast plots and visuals
+
 │ └── sarima_forecast.png   # Forecast plot image
+
 ├── README.md   # Project documentation
+
 ├── TimeSeriesProject.ipynb   # Jupyter notebook with full analysis
+
 ├── taxi(1).csv   # Folder for source datasets
 
 ---
