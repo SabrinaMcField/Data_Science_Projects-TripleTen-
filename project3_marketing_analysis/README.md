@@ -1,7 +1,7 @@
 #  Online Game Store Marketing Analysis: Data-Driven Insights for Global Strategy
 
 ##  Project Overview
-This project analyzes historical sales data from a global online game store to identify which **platforms**, **genres**, and **game titles** are most profitable. Through exploratory data analysis and strategic segmentation, it delivers insights to guide marketing, inventory, and product planning across North America, Europe, and Japan.
+This project analyzes historical sales and review data from Ice, a global online video game retailer, to uncover which platforms, genres, and games are most profitable. The analysis aims to inform the company’s 2017 marketing strategy by identifying high-performing products and regional consumer preferences.
 
 ---
 
@@ -38,7 +38,14 @@ The goal was to forecast which game genres and platforms are likely to perform b
 
 ##  Visual Example
 
-![Review Score vs Sales](images/game_sales_reviews_heatmap.png)
+**Platform Lifecycle Trends**  
+![Platform Lifecycle](images/platform_lifecycle.png)
+
+**Genre Sales by Region**  
+![Genre Sales](images/genre_sales_by_region.png)
+
+**Critic Score vs. Global Sales**  
+![Critic Score Correlation](images/critic_score_vs_sales.png)
 
 *Figure: Heatmap showing correlation between review scores and game sales performance across regions.*
 
@@ -46,21 +53,29 @@ The goal was to forecast which game genres and platforms are likely to perform b
 
 ##  Conclusion
 
-The analysis confirms that **platform choice, genre alignment, and critic review scores** play a significant role in game profitability. These insights can support:
-- Platform prioritization
-- Genre-focused product development
-- Region-specific marketing strategies
+- **Top Platforms**: PS4, XOne, and 3DS remain strong; older consoles are declining.
+- **Profitable Genres**: Action, Shooter, and Sports lead in sales; RPGs are especially strong in Japan.
+- **Critical Impact**: Strong correlation between critic reviews and commercial success — reviews should be leveraged in marketing.
+- **Data-Driven Strategy**: Recommendations support targeted platform investments, regional strategies, and review-based promotions.
 
 ---
 
-##  Business Value & Future Strategy
+##  Future Improvements
+- Integrate marketing spend and ROI data
+- Predict future bestsellers using machine learning
+- Add real-time user engagement and social listening insights
 
-### Business Applications:
-- 🎯 Personalize marketing campaigns by region and genre preferences.
-- 📦 Align inventory and promotion efforts with platform lifecycles.
-- 🤝 Inform influencer partnerships based on review-driven engagement.
+---
 
-### Future Recommendations:
+##  Business Value
+This analysis equips Ice’s marketing team with the insights needed to:
+- Prioritize investments in the most profitable platforms and genres
+- Tailor regional strategies based on consumer behavior
+- Capitalize on the influence of critic reviews to enhance campaign performance
+
+---
+
+### Future Recommendations
 - Incorporate live review feeds and current market data for real-time forecasting.
 - Expand to mobile and indie game segments.
 - Build an interactive dashboard for internal business use.
