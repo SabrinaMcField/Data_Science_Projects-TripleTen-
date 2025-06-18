@@ -35,6 +35,7 @@ Develop a scalable machine learning model capable of accurately classifying movi
 > Figure: Movie and Review Volume Trends Over Time
 
 The top chart illustrates the number of movies released each year, showing a steady increase starting in the 1980s and peaking in the early 2000s.
+
 The bottom chart visualizes the number of reviews per year, segmented by sentiment, alongside a smoothed orange line that represents the average number of reviews per movie (5-year rolling average). This dual-axis view reveals a significant rise in user review activity beginning in the 1990s, with the highest engagement observed for films released in the 2000s.
 These trends highlight how modern releases receive more public feedback, suggesting stronger user engagement and more abundant training data for sentiment models.*
 
@@ -42,7 +43,7 @@ These trends highlight how modern releases receive more public feedback, suggest
 
 ###  Sentiment Distribution by Year  
 ![Genre Sales](images/sentiment_distribution.png)  
-> Figure: Sentiment Distribution in Movie Reviews by Year and Volume
+> Figure: Evaluation Metrics for Sentiment Classification Model
 
 This visual compares sentiment polarity in both training and test sets.
 
@@ -54,8 +55,8 @@ These plots confirm that the dataset is imbalanced in review volume across years
 
 ---
 
-###  Prediction Samples  
-![Critic Score Correlation](images/prediction_samples.png)  
+###  Evaluation Metrics for Sentiment Classification Model 
+![Evaluation Metrics](images/evaluation_metrics.png)  
 > *Figure: Evaluation Metrics for Sentiment Classification Model
 
 This visual presents three key performance plots comparing training and test results for the logistic regression classifier.
