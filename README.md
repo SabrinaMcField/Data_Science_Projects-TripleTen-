@@ -4,7 +4,7 @@ Welcome to my data science project portfolio! This repository showcases three en
 
 ---
 
-## 📁 Projects Overview
+##  Projects Overview
 
 ### 1. [Time Series Forecasting – Taxi Demand](./project1_time_series) 
 Forecasted hourly taxi order volume using SARIMA modeling to optimize fleet availability and reduce customer wait times.  
@@ -27,26 +27,26 @@ Analyzed game sales data to uncover platform and genre performance, regional pre
 
 ---
 
-### 4. [🗣 NLP – Movie Review Sentiment Classification](./project4_nlp)
+### 4. [NLP – Movie Review Sentiment Classification](./project4_nlp)
 Classified IMDb reviews as positive or negative using TF-IDF and logistic regression.  
 **Techniques**: Text preprocessing, lemmatization, TF-IDF, model evaluation using F1-score  
 🔗 https://github.com/SabrinaMcField/Data_Science_Projects-TripleTen-/tree/main/project4_nlp
 
 ---
 
-### 5. [🖼 Computer Vision – Age Estimation](./project5_computer_vision)  
+### 5. [Computer Vision – Age Estimation](./project5_computer_vision)  
 Estimated customer age from facial images to support automated age verification at self-checkouts.  
 **Techniques**: Deep learning (TensorFlow/Keras), image preprocessing, MAE evaluation  
 🔗 https://github.com/SabrinaMcField/Data_Science_Projects-TripleTen-/tree/main/project5_computer_vision
 
-## 🛠 Tools & Technologies
+##  Tools & Technologies
 - **Languages**: Python, SQL  
 - **Libraries**: pandas, NumPy, scikit-learn, statsmodels, TensorFlow/Keras, matplotlib, seaborn  
 - **Skills**: Predictive modeling, EDA, time series, classification, NLP, deep learning
 
 ---
 
-## 📫 Contact  
+##  Contact  
 Sabrina McField  
 📍 Atlanta, GA (Hybrid/Remote)  
 ✉️ sabrinamcfield@gmail.com  
