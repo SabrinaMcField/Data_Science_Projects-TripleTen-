@@ -68,12 +68,12 @@ The goal is to build and evaluate a deep learning model that can predict a custo
 
 ##  Repository Structure
 
-├── images # Visualizations used in README
-│ ├── age_distribution.png
-│ ├── model_training.png
-├── faces # labels and images files used for modeling
-│ ├── final_files
+├── faces  # Directory containing raw data for modeling
+│ ├── final_files  # Subdirectory with face images used in training and validation
 │ ├── labels.csv # Dataset labels (file names + real ages)
+├── images # Visualizations used in README
+│ ├── age_distribution.png   # Histogram showing the distribution of ages in the dataset
+│ ├── model_training.png   # Line plot showing training and validation loss over epochs
 ├── ComputerVisionProject.ipynb # Jupyter notebook with analysis and model
 ├── README.md # Project documentation
 
