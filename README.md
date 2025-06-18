@@ -50,4 +50,4 @@ Estimated customer age from facial images to support automated age verification 
 Sabrina McField  
 📍 Atlanta, GA (Hybrid/Remote)  
 ✉️ sabrinamcfield@gmail.com  
-🔗 [LinkedIn](#) | [GitHub](https://github.com/SabrinaMcField)
+🔗 [LinkedIn](https://www.linkedin.com/in/sabrinamcfield) | [GitHub](https://github.com/SabrinaMcField)
