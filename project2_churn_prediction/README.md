@@ -70,16 +70,26 @@ The final LightGBM model effectively predicts churn with high precision and reca
 ## 📁 Repository Structure
 
 ├── final_provider # Raw data files
+
   └── contract.csv # contract information
+  
   └── internet.csv # the client's personal data
+  
   └── personal.csv # information about Internet services
+  
   └── phone.csv # information about telephone services
+  
 ├── README.md # Project documentation
+
 ├── finalproject1:3.ipynb # Jupyter notebook for project work plan
+
 ├──  finalproject2:3.ipynb # Jupyter notebook for churn modeling
+
 ├── finalproject3:3.ipynb # Jupyter notebook for project solution report
+
 ├── images # Visuals and charts
-│ └── churn_feature_corr.png # Correlation heatmap or key plot
+
+ └── churn_feature_corr.png # Correlation heatmap or key plot
 
 
 ---
