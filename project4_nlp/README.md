@@ -120,20 +120,24 @@ This solution enables scalable and automatic sentiment classification, which add
 
 ## Repository Structure
 
-├── MachineLearningForTextsProject.ipynb
-├── imdb_reviews.tsv
-├── images/
-│   ├── movie_volume_by_year.png
-│   ├── sentiment_distribution.png
-│   └── prediction_samples.png
-├── README.md
+├── images   # Visualizations used in README
+
+│   └── movie_volume_by_year.png      # Bar chart of movie release volume and review frequency by year
+
+│   └── sentiment_distribution.png    # Distribution of sentiment polarities across training and test sets
+
+│   └── prediction_samples.png        # Sample predictions with their sentiment probabilities
+
+├── MachineLearningForTextsProject.ipynb   # Jupyter notebook with all analysis
+
+├── README.md   # Project documentation
+
+├── imdb_reviews.tsv   # Cleaned dataset and original raw files
 
 ---
 
 ##  Contact
 
-**Sabrina McField**  
-Data Scientist | Marketing Strategist  
-📧 sabrina.mcfield@email.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/sabrinamcfield)  
-🌐 [GitHub](https://github.com/SabrinaMcField)
+Created by **Sabrina McField**  
+sabrinamcfield@gmail.com | [LinkedIn](https://www.linkedin.com/in/sabrinamcfield)
+
