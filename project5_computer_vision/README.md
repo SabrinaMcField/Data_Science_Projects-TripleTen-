@@ -29,7 +29,7 @@ The goal is to build and evaluate a deep learning model that can predict a custo
 - Model evaluated using MAE (Mean Absolute Error).
 - Achieved MAE below 6 years, demonstrating solid age prediction capability from facial images.
 
-## 🖼️ Visual Examples
+##  Visual Examples
 ### Age Distribution of Dataset  
 ![Age Distribution](images/age_distribution.png)  
 > *Figure: A histogram showing the frequency of ages across the dataset, with a clear peak around 25 years. This highlights class imbalance, which is a key consideration in training an effective age prediction model..*
@@ -45,7 +45,7 @@ The goal is to build and evaluate a deep learning model that can predict a custo
 - Deep learning can be an effective tool for non-invasive, real-time age verification.
 - Offers a scalable solution for improving legal compliance at self-checkout kiosks.
 
-## 💡 Future Improvements
+##  Future Improvements
 
 - Improve class balance through oversampling or synthetic data generation (e.g., SMOTE or GANs).
 - Add gender detection for demographic insights.
