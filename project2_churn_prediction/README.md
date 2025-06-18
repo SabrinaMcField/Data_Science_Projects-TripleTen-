@@ -44,7 +44,8 @@ Telecom company Interconnect seeks to reduce churn by identifying customers like
 
 ![Churn Feature Correlation Heatmap](images/churn_feature_corr.png)
 
-*Figure: Heatmap showing top features correlated with customer churn.*
+> **Figure: Heatmap of Feature Correlations with Customer Churn**
+This heatmap visualizes how various customer attributes correlate with churn. Features like charge_per_service and begin_date show a moderate positive correlation, while long-term contracts, tech support, and online security have strong negative correlations—indicating they reduce the likelihood of churn. The visualization highlights key variables that influence retention, supporting targeted marketing and product optimization strategies.
 
 ---
 
