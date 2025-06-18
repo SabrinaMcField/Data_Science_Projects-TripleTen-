@@ -89,12 +89,19 @@ This analysis equips Ice’s marketing team with the insights needed to:
 
 ##  Repository Structure
 
-├── IntegratedProject1.ipynb # Jupyter notebook with all analysis
-├── data / # Cleaned dataset and original raw files
-├── images/ # Visualizations used in README
-│ └── game_sales_reviews_heatmap.png # Example correlation heatmap
+├── images  # Visualizations used in README
+
+│ └── platform_lifecycle.png # Example sales comparison bar chart
+
+│ └── genre_sales_by_region.png # Example sales comparison bar chart
+
+│ └── critic_score_vs_sales.png # Example correlation scatterplot
+
 ├── README.md # Project documentation
-└── requirements.txt # Python dependencies
+
+├── IntegratedProject1.ipynb # Jupyter notebook with all analysis
+
+├── games.csv / # Cleaned dataset and original raw files
 
 ---
 
