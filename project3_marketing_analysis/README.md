@@ -40,14 +40,17 @@ The goal was to forecast which game genres and platforms are likely to perform b
 
 **Platform Lifecycle Trends**  
 ![Platform Lifecycle](images/platform_lifecycle.png)
+> *Figure: A vertical bar chart showing annual sales of the top 5 gaming platforms (DS, PS2, PS3, Wii, X360) from 1998 to 2016. The plot reveals that each platform experiences a distinct rise, peak, and decline pattern—highlighting typical 8–10 year life cycles that are crucial for forecasting product demand.*
 
 **Genre Sales by Region**  
 ![Genre Sales](images/genre_sales_by_region.png)
+> *Figure: A grouped bar chart comparing game genre popularity across North America, Europe, and Japan. The Action and Shooter genres dominate in NA and EU, while Role-Playing Games (RPGs) are significantly more popular in Japan. These insights inform regional marketing and genre-specific investment strategies.*
 
 **Critic Score vs. Global Sales**  
 ![Critic Score Correlation](images/critic_score_vs_sales.png)
+> *Figure: A scatter plot illustrating the relationship between critic scores and global game sales. The upward trend suggests a positive correlation: as critic scores increase, so do total sales. This validates the use of critic feedback as a predictive metric for commercial success.*
 
-*Figure: Heatmap showing correlation between review scores and game sales performance across regions.*
+
 
 ---
 
