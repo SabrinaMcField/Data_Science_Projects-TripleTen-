@@ -1,11 +1,11 @@
-# 🚕 Time Series Forecasting: Hourly Taxi Order Prediction for Sweet Lift
+#  Time Series Forecasting: Hourly Taxi Order Prediction for Sweet Lift
 
-## 📌 Project Overview
+##  Project Overview
 This project focuses on building a time series model to **forecast hourly taxi orders** using historical data provided by Sweet Lift, a taxi company. The primary goal is to **optimize driver allocation** by predicting the number of rides one hour in advance—ensuring operational efficiency and reduced customer wait times.
 
 ---
 
-## 🧠 Objective
+##  Objective
 Sweet Lift experiences fluctuations in customer demand throughout the day. By forecasting hourly taxi orders with a required RMSE below 48, this project empowers the company to:
 
 - Increase driver availability during peak hours  
@@ -14,7 +14,7 @@ Sweet Lift experiences fluctuations in customer demand throughout the day. By fo
 
 ---
 
-## 🔧 What Was Done (Methodology & Techniques)
+##  What Was Done (Methodology & Techniques)
 
 - **Data Preprocessing**:  
   Resampled raw time series data to hourly intervals and handled missing values.
@@ -38,7 +38,7 @@ Sweet Lift experiences fluctuations in customer demand throughout the day. By fo
 
 ---
 
-## 📊 Visual Insights
+##  Visual Insights
 
 <p align="center">
   <img src="images/sarima_forecast.png" width="600" alt="SARIMA Forecast Plot"/>
@@ -50,18 +50,18 @@ Sweet Lift experiences fluctuations in customer demand throughout the day. By fo
 
 ---
 
-## ✅ Conclusion
+##  Conclusion
 
 The SARIMA model successfully met the target benchmark (RMSE < 48), demonstrating robust forecasting performance. With an RMSE of **38.91**, this model equips Sweet Lift with the predictive power to optimize scheduling and reduce customer wait times during peak hours.
 
 ---
 
-## 🚀 Business Value & Future Improvements
+##  Business Value & Future Improvements
 
 ### Business Outcomes:
-- 📈 Increased ride availability through proactive scheduling  
-- 🚗 Enhanced driver satisfaction due to efficient allocation  
-- 💰 Reduced operational costs from better demand planning
+-  Increased ride availability through proactive scheduling  
+-  Enhanced driver satisfaction due to efficient allocation  
+-  Reduced operational costs from better demand planning
 
 ### Next Steps:
 - Deploy the model via an API for real-time predictions  
@@ -70,7 +70,7 @@ The SARIMA model successfully met the target benchmark (RMSE < 48), demonstratin
 
 ---
 
-## 📁 Repository Structure
+##  Repository Structure
 
 ├── images/   # Folder for forecast plots and visuals
 
@@ -84,14 +84,14 @@ The SARIMA model successfully met the target benchmark (RMSE < 48), demonstratin
 
 ---
 
-## 🛠️ Technologies Used
+## 🛠 Technologies Used
 - **Python**
 - **Pandas, Statsmodels, Matplotlib, Seaborn**
 - **Jupyter Notebook**
 
 ---
 
-## 📬 Contact
+##  Contact
 Created by **Sabrina McField**  
 📧 sabrinamcfield@gmail.com | [LinkedIn](https://www.linkedin.com/in/sabrinamcfield)
 

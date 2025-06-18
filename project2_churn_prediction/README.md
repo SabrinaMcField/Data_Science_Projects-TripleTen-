@@ -1,16 +1,16 @@
-# 📉 Customer Churn Prediction for Telecom: Proactive Retention with Machine Learning
+#  Customer Churn Prediction for Telecom: Proactive Retention with Machine Learning
 
-## 📌 Project Overview
+##  Project Overview
 This project focuses on building a predictive model to identify telecom customers at risk of churning. By analyzing user behavior, service preferences, and contract data, the model enables data-driven marketing strategies to reduce customer loss and improve retention.
 
 ---
 
-## 🧠 Objective
+##  Objective
 Telecom company Interconnect seeks to reduce churn by identifying customers likely to cancel their service. By predicting churn and understanding the factors behind it, the company can proactively offer incentives, improve service, and personalize retention campaigns.
 
 ---
 
-## 🔧 What Was Done (Methodology & Techniques)
+##  What Was Done (Methodology & Techniques)
 
 - **Data Integration**: Merged multiple CSV files (`contract`, `internet`, `personal`, `phone`) using `customer_id` as a unique identifier.
 - **Data Cleaning**: Standardized formats, dropped redundant fields, handled missing values, and encoded categorical variables.
@@ -27,7 +27,7 @@ Telecom company Interconnect seeks to reduce churn by identifying customers like
 
 ---
 
-## 📊 Model Performance
+##  Model Performance
 
 | Metric          | Training Set | Test Set |
 |-----------------|--------------|----------|
@@ -40,21 +40,22 @@ Telecom company Interconnect seeks to reduce churn by identifying customers like
 
 ---
 
-## 📈 Visual Example
+##  Visual Example
 
 ![Churn Feature Correlation Heatmap](images/churn_feature_corr.png)
 
-*Figure: Heatmap showing top features correlated with customer churn.*
+> **Figure: Heatmap of Feature Correlations with Customer Churn**
+This heatmap visualizes how various customer attributes correlate with churn. Features like charge_per_service and begin_date show a moderate positive correlation, while long-term contracts, tech support, and online security have strong negative correlations—indicating they reduce the likelihood of churn. The visualization highlights key variables that influence retention, supporting targeted marketing and product optimization strategies.
 
 ---
 
-## ✅ Conclusion
+##  Conclusion
 
 The final LightGBM model effectively predicts churn with high precision and recall, enabling proactive customer engagement. Features like contract type, tech support usage, and billing behavior emerged as top indicators of churn.
 
 ---
 
-## 🚀 Business Value & Next Steps
+##  Business Value & Next Steps
 
 ### Business Outcomes:
 - 📉 Early churn detection for proactive outreach
@@ -69,21 +70,31 @@ The final LightGBM model effectively predicts churn with high precision and reca
 ## 📁 Repository Structure
 
 ├── final_provider # Raw data files
+
   └── contract.csv # contract information
+  
   └── internet.csv # the client's personal data
+  
   └── personal.csv # information about Internet services
+  
   └── phone.csv # information about telephone services
+  
 ├── README.md # Project documentation
+
 ├── finalproject1:3.ipynb # Jupyter notebook for project work plan
+
 ├──  finalproject2:3.ipynb # Jupyter notebook for churn modeling
+
 ├── finalproject3:3.ipynb # Jupyter notebook for project solution report
+
 ├── images # Visuals and charts
-│ └── churn_feature_corr.png # Correlation heatmap or key plot
+
+ └── churn_feature_corr.png # Correlation heatmap or key plot
 
 
 ---
 
-## 🛠️ Technologies Used
+## 🛠 Technologies Used
 
 - **Python**, **Pandas**, **NumPy**
 - **Scikit-learn**, **XGBoost**, **LightGBM**
@@ -92,7 +103,7 @@ The final LightGBM model effectively predicts churn with high precision and reca
 
 ---
 
-## 📬 Contact
+##  Contact
 
 Created by **Sabrina McField**  
-📧 sabrinamcfield@example.com | [LinkedIn](https://www.linkedin.com/in/sabrinamcfield)
+📧 sabrinamcfield@gmail.com | [LinkedIn](https://www.linkedin.com/in/sabrinamcfield)
