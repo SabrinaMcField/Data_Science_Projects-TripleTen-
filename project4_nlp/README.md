@@ -43,7 +43,7 @@ These trends highlight how modern releases receive more public feedback, suggest
 
 ###  Sentiment Distribution by Year  
 ![Genre Sales](images/sentiment_distribution.png)  
-> Figure: Evaluation Metrics for Sentiment Classification Model
+> Figure: Sentiment Distribution by Year 
 
 > This visual compares sentiment polarity in both training and test sets.
 
