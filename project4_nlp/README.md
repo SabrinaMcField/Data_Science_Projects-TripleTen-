@@ -88,15 +88,15 @@ These trends highlight how modern releases receive more public feedback, suggest
 This solution enables scalable and automatic sentiment classification, which adds value in several areas:
 
 -  **Business Value**:
-  - Enhances moderation for platforms with high user-generated content.
-  - Supports real-time analysis of public reception for new media releases.
-  - Enables sentiment tagging for better recommendation engines and trend detection.
+    - Enhances moderation for platforms with high user-generated content.
+    - Supports real-time analysis of public reception for new media releases.
+    - Enables sentiment tagging for better recommendation engines and trend detection.
 
 -  **Future Improvements**:
-  - Expand to multi-class sentiment (e.g., neutral, mixed).
-  - Incorporate deep learning models like BERT for improved language understanding.
-  - Deploy the model using a Streamlit dashboard or REST API for live review analysis.
-  - Integrate SHAP/LIME for explainable AI in enterprise use cases.
+    - Expand to multi-class sentiment (e.g., neutral, mixed).
+    - Incorporate deep learning models like BERT for improved language understanding.
+    - Deploy the model using a Streamlit dashboard or REST API for live review analysis.
+    - Integrate SHAP/LIME for explainable AI in enterprise use cases.
 
 ---
 
