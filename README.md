@@ -1,4 +1,4 @@
-# Data_Science_Projects_TripleTen by Sabrina McField
+# Data_Science_Projects by Sabrina McField
 
 Welcome to my data science project portfolio! This repository showcases three end-to-end projects that demonstrate my ability to explore data, engineer features, apply predictive models, and derive actionable insights. Each project addresses real-world business problems in marketing, customer analytics, and forecasting.
 
